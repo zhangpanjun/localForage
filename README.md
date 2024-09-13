@@ -1,0 +1,2 @@
+# localForage
+localForage是一个基于indexedDB封装,类似于localStorage的缓存存取api的第三方库.实现indexedDB/webSql/localStorage不同方式存储，优雅降级，兼容性更高
